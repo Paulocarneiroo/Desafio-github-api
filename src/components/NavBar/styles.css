@@ -1,0 +1,15 @@
+.nav-main-container {
+    display: flex;
+    align-items: center;
+    height: 62px;
+    background-color: blueviolet;
+}
+
+.nav-text-logo {
+    padding-left: 40px;
+}
+
+.nav-text-logo h4 {
+    font-size: 24px;
+    color: #fff;
+}

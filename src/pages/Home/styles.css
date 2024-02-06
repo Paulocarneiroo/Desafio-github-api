@@ -1,0 +1,26 @@
+.home-main-container {
+    padding: 30px 40px; 
+    background-color: azure;
+ }
+ 
+ .home-title {
+     letter-spacing: 0.02em;
+ }
+ 
+ .home-title h1 {
+     font-size: 48px;
+     color: #000;
+     padding-bottom: 5px;
+ }
+ 
+ .home-title p {
+     font-size: 24px;
+     font-weight: 700;
+     color: #7e7e7e;
+     padding-bottom: 25px;
+ }
+
+.linkedln{
+    color: #000;
+    text-decoration:underline;
+ }

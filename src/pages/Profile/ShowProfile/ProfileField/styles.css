@@ -1,0 +1,34 @@
+.profile-fields-container {
+    border: 1px solid #d9d9d9;
+    border-radius: 4px;
+    padding: 5px;
+    margin-bottom: 5px;
+    color: #737373;
+  }
+  
+  .profile-fields-container p {
+    font-size: 15px;
+    margin-bottom: 0;
+  }
+  
+  .field-title {
+    font-weight: 700;
+  }
+  
+  @media (min-width: 576px) {
+    .profile-fields-container {
+      display: flex;
+      flex-direction: row;
+      min-width: 445px;
+    }
+    .field-title {
+      margin-right: 5px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .profile-fields-container {
+      height: 40px;
+      align-items: center;
+    }
+  }
