@@ -9,8 +9,7 @@ const Home = () => {
       <Navbar />
       <div className="home-main-container">
         <div className="home-title">
-          <h1>Desafio Github API - by <a className="linkedln" target="_blank" href="https://www.linkedin.com/in/paulocarneiroo/">Paulo Carneiro</a></h1>
-          <p>DevSuperior - Escola de programação</p>
+          <h1>PSApiGithub<a className="linkedln" target="_blank" href="https://www.linkedin.com/in/paulocarneiroo/">Paulo Carneiro</a></h1>
         </div>
         <Link to="/profile">
         <Button title="Começar" />
