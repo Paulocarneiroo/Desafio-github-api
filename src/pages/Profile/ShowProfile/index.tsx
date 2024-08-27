@@ -1,4 +1,3 @@
-import { useState } from "react";
 import "./styles.css";
 import { GithubData } from "../../../type/githubdata";
 import ProfileField from "./ProfileField";
